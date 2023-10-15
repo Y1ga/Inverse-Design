@@ -1,0 +1,23 @@
+Ansys Lumerical 2020 R2 Finite Difference Eigenmode Solver Version 7.16.2387 (Windows 64bit)
+ expires (month/day/year): 12/31/2035
+using config file: Ansys Licensing set with ANSYSLMD_LICENSE_FILE
+license host: 
+current time: Fri Oct 13 17:57:45 2023
+Running on host: DESKTOP-53M26J4
+Running lms file: W:\Software\Lumerical\v202\bin\fd-engine-msmpi.exe -t 4 -remote -hide C:/Users/yiga/Desktop/Inverse design/official example/2d grating coupler/pid_grating_coupler_preliminary_design_sweep_thickness/sweep_thickness_45.lms
+Running MODE Simulation
+Starting meshing
+Simulation size in gridpoints: 1 x 502 x 1
+Refined 0 mesh cells (0%)
+Completed meshing!
+Meshing complete in 0 seconds of CPU time
+Starting meshing
+Simulation size in gridpoints: 1 x 502 x 1
+Refined 0 mesh cells (0%)
+Completed meshing!
+Meshing complete in 0 seconds of CPU time
+Starting meshing
+Simulation size in gridpoints: 1 x 502 x 1
+Refined 0 mesh cells (0%)
+Completed meshing!
+Meshing complete in 0 seconds of CPU time
